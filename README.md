@@ -8,6 +8,6 @@ Follow these steps to run the protein secondary structure prediction script.
   pip install -r requirements.txt
 
 ### Running
-  ```bash
+  - ```bash
   python predict.py "MVLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRFKHLKTEAEMKASEDLKKHGVTVLTALGAILKKKGHHEAELKPLAQSHATKHKIPIKYLEFISEAIIHAIIIIIIIDFGADAQGAMNKALELFRKDIAAKYKELGYQG"
 
